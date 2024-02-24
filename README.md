@@ -18,7 +18,7 @@ App Router  : is a new feature in Next. js 13 that lets you build web applicatio
 Import alias : allow you to define shorter and more descriptive names for file paths or modules. Instead of grappling with lengthy import paths that resemble a roadmap, you can create aliases that streamline your code and enhance its readability.
 
 Soal 2
-![soal2](soal2.png)
+![soal no 2](assets/screenshoot/soal2.png)
 Pada struktur project tersebut, jelaskan kegunaan folder dan file masing-masing tersebut!
 
 Folder:
@@ -46,6 +46,6 @@ Soal 3
 Gantilah teks pada bagian atas dengan Nama - NIM Anda. Contoh seperti gambar berikut:
 
 Jawaban dibuktikan dengan hasil screenshot.
-![Jawaban untuk no 3](jawabanno3.png)
+![jawaban no 3](assets/screenshoot/jawabanno3.png)
 Ketika Anda telah berhasil mengganti teks tersebut, Anda tidak perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman di browser. Tiba-tiba perubahan itu tampil, Mengapa terjadi demikian? Jelaskan!
 Terdapat Hot Module Replacement (HMR), yang memungkinkan perubahan pada kode sumber aplikasi web diterapkan secara langsung tanpa perlu me-restart server atau me-reload halaman. HMR bekerja dengan memantau perubahan pada file-file aplikasi web dan secara otomatis memperbarui modul yang terpengaruh. 
