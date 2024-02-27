@@ -49,3 +49,18 @@ Jawaban dibuktikan dengan hasil screenshot.
 ![jawaban no 3](assets/screenshoot/jawabanno3.png)
 Ketika Anda telah berhasil mengganti teks tersebut, Anda tidak perlu menjalankan perintah npm run dev dan tidak juga diperlukan me-reload halaman di browser. Tiba-tiba perubahan itu tampil, Mengapa terjadi demikian? Jelaskan!
 Terdapat Hot Module Replacement (HMR), yang memungkinkan perubahan pada kode sumber aplikasi web diterapkan secara langsung tanpa perlu me-restart server atau me-reload halaman. HMR bekerja dengan memantau perubahan pada file-file aplikasi web dan secara otomatis memperbarui modul yang terpengaruh. 
+
+Soal 4
+Cobalah buat project react lainnya dengan menggunakan framework Remix dan Gatsby. Ini tidak perlu di push, cukup screenshot dan jelaskan perbedaannya diantara ketiga framework tersebut (termasuk Next.js) di file README nomor 1.
+
+Next 
+![next.js](assets/screenshoot/jawabanno3.png)
+Remix
+![remix](assets/screenshoot/remix.png)
+Gatsby
+![gatsby](assets/screenshoot/gatsby.png)
+
+Perbedaan :
+Next.js : memberikan dukungan penuh untuk SSR (Server-side rendering) dan SSG (Static Site Generation). Ini berarti Anda dapat menghasilkan konten secara dinamis di server atau membangun situs statis seluruhnya saat membangun.
+Gatsby : secara eksklusif berfokus pada SSG (Static Site Generation). Ini berarti bahwa Gatsby akan menghasilkan situs statis yang sepenuhnya siap pakai yang dapat dihosting di berbagai platform hosting statis.
+Remix : adalah framework full-stack yang memungkinkan Anda membangun aplikasi dengan menggunakan teknologi client-side dan server-side.
